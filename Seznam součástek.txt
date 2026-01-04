@@ -1,0 +1,9 @@
+Seznam součástek
+
+ESP https://www.puhy.cz/joy-it-nodemcu-v2-lua-vyvojova-deska-node-mcu-esp8266-wifi-modul-395423.html
+2x 15pin lišta (2,54 mm)
+6x IR senzory pro snímání čáry:QRE1113GR
+DRV8220DRLR https://cz.mouser.com/ProductDetail/Texas-Instruments/DRV8220DRLR?qs=A6eO%2BMLsxmTbgRMs5Sh%2FhA%3D%3D Datasheet: https://www.ti.com/lit/ds/symlink/drv8220.pdf
+4-pi n konektor pro přidání(HC-SR04 ultrazvukový senzor vzdálenosti https://www.laskakit.cz/arduino-ultrazvukovy-meric-vzdalenosti-hc-sr04/)
+2x mikrospínač
+8kanálový analogový multiplexor https://www.ti.com/lit/ds/symlink/sn74hc4851-q1.pdf

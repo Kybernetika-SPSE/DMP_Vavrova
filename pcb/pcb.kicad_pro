@@ -239,6 +239,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -249,7 +250,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MaturitníPráce.kicad_pro",
+    "filename": "pcb.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -409,8 +410,12 @@
   },
   "sheets": [
     [
-      "5762fbf3-7de9-41b2-af64-6b49b62222fa",
+      "fa68a0a1-2442-44ac-8421-6b9a18e1b14b",
       "Root"
+    ],
+    [
+      "6193b7f2-5a02-49b0-b221-cbfe652a7ac1",
+      "Senzory"
     ]
   ],
   "text_variables": {}

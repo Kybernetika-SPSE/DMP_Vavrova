@@ -596,6 +596,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -612,10 +620,6 @@
     [
       "fa68a0a1-2442-44ac-8421-6b9a18e1b14b",
       "Root"
-    ],
-    [
-      "6193b7f2-5a02-49b0-b221-cbfe652a7ac1",
-      "Senzory"
     ]
   ],
   "text_variables": {}
